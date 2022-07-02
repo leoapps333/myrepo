@@ -1,2 +1,2 @@
 # myrepo
-My new repository
+My new repository to learn VCS
